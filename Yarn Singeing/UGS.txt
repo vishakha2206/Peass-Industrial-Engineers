@@ -1,0 +1,10 @@
+Major Advantage
+* High speeds with uniform singeing results.
+* Complete flexibility.
+
+Salient Features
+* Individual spindle drive.
+* Individual inverter control.
+* Auto length contolling device.
+* Tail-end device to protect unsigned yarn.
+* Auto stop motion for full doff with visual display.

@@ -1,0 +1,10 @@
+Major Advantages:
+* Smaller lot size.
+* Perfect repeatability of results.
+ 
+
+Salient Features:
+* Entire machine controlled by PLC controller.
+* Storage of different recipes.
+* Oil based hydraulic system.
+* Flexibility of changing process parameters by press of buttons.

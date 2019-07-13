@@ -1,0 +1,10 @@
+Major Advantage
+* Pineapple / Bi-conical package shape.
+* Multi tasking ability.
+
+Salient Features
+* Auto yarn length controlling device.
+* Individual frequency inverter drive.
+* Auto stop motion for full doff with visual display.
+* Constant yarn speed through smart controller.
+* Reducing tension with increase in package diameter.

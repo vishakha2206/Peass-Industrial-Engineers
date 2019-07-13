@@ -1,0 +1,14 @@
+Major Advantages
+* Higher speeds of upto 1600 m/min.
+* Less breakage on TFO.
+* Longer running time of TFO.
+* Improved efficiency of TFO.
+
+Salient Features
+* Individual spindle drive.
+* Individual invertor control.
+* Individual length measuring.
+* Individual diameter control.
+* Motorized tension device.
+* Electronic non-contact yarn sensors.
+* Cutter mechanism for single end prevention.

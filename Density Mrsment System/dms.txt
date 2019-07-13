@@ -1,0 +1,8 @@
+Major Advantages:
+* Precise, Reliable and efficient.
+* Easy operation even by unskilled person.
+
+
+Salient Features:
+* Measures density of cheese/cone/bicone.
+* Define tolerance range as per suitability.
